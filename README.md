@@ -98,3 +98,7 @@ sqlJs.``then``(fun x ->
     db.close ()
 ) |> ignore
 ```
+
+The following should be printed in the console.
+
+![vivaldi_jJ4eBFBBPo](https://user-images.githubusercontent.com/5063478/189690952-e5ce4f67-c8aa-40d9-88ff-a7e3fce355e0.png)
