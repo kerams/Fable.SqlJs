@@ -9,7 +9,7 @@
 		<RepositoryUrl>https://github.com/kerams/Fable.SqlJs</RepositoryUrl>
 		<PackageProjectUrl>https://kerams.github.io/Fable.SqlJs/</PackageProjectUrl>
 		<PackageLicenseExpression>MIT</PackageLicenseExpression>
-		<PackageTags>fsharp;fable;sql;sqlite</PackageTags>
+		<PackageTags>fsharp;fable;fable-binding;fable-javascript;sql;sqlite</PackageTags>
     </PropertyGroup>
 	<PropertyGroup>
 		<NpmDependencies>
